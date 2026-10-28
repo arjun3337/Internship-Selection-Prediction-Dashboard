@@ -170,9 +170,18 @@ Open the local URL displayed in the terminal if the browser does not launch auto
 
 ## Author
 
-**Name:** [Your Full Name]  
-**Internship ID:** CITS4485  
-**Project Title:** Internship Selection Prediction & Employability Analytics
+
+## Author
+
+- **Name:** Arjun P.
+- **USN:** 25MCAR0025
+- **Course:** Master of Computer Applications (MCA)
+- **University:** Jain (Deemed-to-be University)
+- **Project Title:** Internship Selection Prediction & Employability Analytics
+- **Project Type:** Academic Project
+- **Subject:** Predictive Analysis and Data Visualization
+- **Faculty Guide:** Prof. Rahul Pawar
+
 
 ## License and Dataset Attribution
 
