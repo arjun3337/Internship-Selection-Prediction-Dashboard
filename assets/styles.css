@@ -1,0 +1,79 @@
+
+/* ===== Main application background ===== */
+.stApp,
+[data-testid="stAppViewContainer"],
+[data-testid="stMain"] {
+    background-color: #171923 !important;
+    color: #F4F5F7 !important;
+}
+
+/* ===== Main headings ===== */
+.stApp h1,
+.stApp h2,
+.stApp h3 {
+    color: #F4F5F7 !important;
+    font-weight: 700;
+}
+
+.stApp p,
+.stApp label {
+    color: #D1D5E0;
+}
+
+/* ===== Sidebar ===== */
+[data-testid="stSidebar"] {
+    background-color: #202433 !important;
+}
+
+[data-testid="stSidebar"] * {
+    color: #F4F5F7;
+}
+
+/* ===== KPI cards ===== */
+[data-testid="stMetric"] {
+    background-color: #252A3A !important;
+    border: 1px solid #363D52 !important;
+    padding: 18px !important;
+    border-radius: 14px !important;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+[data-testid="stMetricLabel"] {
+    color: #C6CBD8 !important;
+}
+
+[data-testid="stMetricValue"] {
+    color: #FFFFFF !important;
+}
+
+/* ===== Data table container ===== */
+[data-testid="stDataFrame"] {
+    border: 1px solid #363D52 !important;
+    border-radius: 10px !important;
+    overflow: hidden;
+}
+
+/* ===== Buttons ===== */
+.stButton > button,
+.stDownloadButton > button {
+    border-radius: 8px;
+    font-weight: 600;
+    border: 1px solid #7C83FD;
+}
+
+/* ===== Input fields ===== */
+.stTextInput input,
+.stNumberInput input {
+    background-color: #252A3A !important;
+    color: #F4F5F7 !important;
+}
+
+/* ===== Information messages ===== */
+[data-testid="stAlert"] {
+    border-radius: 10px;
+}
+
+/* ===== Dividers ===== */
+hr {
+    border-color: #363D52 !important;
+}

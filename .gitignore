@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.DS_Store
+Thumbs.db
+models/*.joblib
+models/*.pkl
+outputs/*.csv
+outputs/*.png
+outputs/*.pdf
+.streamlit/secrets.toml
